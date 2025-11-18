@@ -99,7 +99,7 @@ Design is fully synthesizable and FPGA-ready.
 
 Full documentation is available in the PDF:
 
-/docs/Report.pdf
+docs/RISC-V report sub (final).pdf
 
 ---
 
