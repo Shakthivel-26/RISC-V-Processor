@@ -116,7 +116,10 @@ docs/RISC-V report sub (final).pdf
 
 ## AUTHORS
 
-Shakthivel R
+Shakthivel. R
+
 Vaishnavi A
+
 Sanofer Nisha M S
+
 Supervisor: Dr. T. Annamalai
